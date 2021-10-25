@@ -7,12 +7,16 @@ It works with PancakePredictionV2.
 ## 💡 How to use
 
 ```
-1. Rename .env.example to .env mv .env.example .env
+1. Rename .env.example to .env: `mv .env.example .env`
 2. Provide your private key to .env PRIVATE_KEY field
 3. Install dependencies npm i
 4. Start the app with `npm run start`
 5. Enjoy winning!
 ```
+
+![alt PancakeSwap Prediction Bot-Winner](images/ppw-image.png)
+![alt PancakeSwap Prediction Bot-Winner Screenshot](images/ppw-image-2.png)
+![alt Candle Genie Bot-Winner Screenshot](images/ppw-image-3.png)
 
 ### ⚠️ Beware of forks. I do not give any guarantee that the fork may turn out to be a scam.
 
