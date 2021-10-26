@@ -1,6 +1,6 @@
 # [🔥 UPDATE V2] PancakeSwapPredictionBot Light
 
-This bot wins almost every 5 minute BNB-USD option on PancakeSwap Prediction.
+Bot with automated strategy, bettting and claiming for PancakwSwap
 
 It works with PancakePredictionV2.
 
