@@ -1,5 +1,8 @@
 # [🔥 UPDATE V2] PancakeSwapPredictionBot Light
 
+
+# ❌ DO NOT USE THIS BOT, NEW VERSION: https://github.com/xBidi/PancakeSwapBot
+
 Bot with automated strategy, bettting and claiming for PancakwSwap
 
 It works with PancakePredictionV2.
