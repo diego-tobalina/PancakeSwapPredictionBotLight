@@ -3,8 +3,6 @@
 
 ## ❌ DO NOT USE THIS BOT, IMPROVED NEW VERSION: https://github.com/xBidi/PancakeSwapBot
 
-Bot with automated strategy, bettting and claiming for PancakwSwap
-
 It works with PancakePredictionV2.
 
 ## 💡 How to use
