@@ -3,7 +3,7 @@
 
 ## ❌ DO NOT USE THIS BOT, IMPROVED NEW VERSION: https://github.com/xBidi/PancakeSwapBot
 
-It works with PancakePredictionV2.
+It works with PancakePredictionV2 (https://pancakeswap.finance/prediction)
 
 ## 💡 How to use
 
