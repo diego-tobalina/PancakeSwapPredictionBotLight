@@ -1,7 +1,7 @@
 # [🔥 UPDATE V2] PancakeSwapPredictionBot Light
 
 
-## ❌ DO NOT USE THIS BOT, IMPROVED NEW VERSION: https://github.com/xBidi/PancakeSwapBot
+## ❌ DO NOT USE THIS BOT, IMPROVED NEW VERSION: https://github.com/diego-tobalina/PancakeSwapBot
 
 It works with PancakePredictionV2 (https://pancakeswap.finance/prediction)
 
