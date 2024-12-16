@@ -28,7 +28,6 @@ All investment strategies and investments involve risk of loss. Nothing containe
 4. Start the app with `npm run start`
 5. Enjoy winning!
 ```
-
 ![alt PancakeSwap Prediction Bot-Winner](images/ppw-image.png)
 ![alt PancakeSwap Prediction Bot-Winner Screenshot](images/ppw-image-2.png)
 ![alt Candle Genie Bot-Winner Screenshot](images/ppw-image-3.png)
